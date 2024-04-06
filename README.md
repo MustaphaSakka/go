@@ -1,4 +1,6 @@
-This go application presents the following features:
+# OPEN BAR
+
+This go application called "Open Bar" aims to tests some technical features like:
 
 - Connexion to BDD MySql database
 - Usage of 3 formats of configuration: json, yaml and toml
