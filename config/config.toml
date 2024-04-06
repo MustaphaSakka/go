@@ -1,0 +1,7 @@
+[database] 
+host= "localhost"
+port= "8080"
+
+[User]
+login="admin"
+password="1234$"
