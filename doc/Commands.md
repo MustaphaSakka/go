@@ -17,6 +17,6 @@
     - HGETALL monapi
     - HGET monapi download
     - HINCRBY monapi dowload 1
-    - flushall # Tout vider sur une machine de dév
+    - flushall # Tout vider sur une machine de DEV
     - PUBLISH "api:notifications:sport" "live matchs"
     - SUBSCRIBE "api:notif"
